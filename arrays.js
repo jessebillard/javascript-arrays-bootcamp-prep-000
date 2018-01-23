@@ -41,7 +41,10 @@ function removeElementFromBeginningOfArray (numbers) {
   return (numbers)
 }
 
-function destructivelyRemoveElementFromEndOfArray ()
+function destructivelyRemoveElementFromEndOfArray (numbers) {
+  numbers.pop()
+  return(numbers)
+}
 
 
 
