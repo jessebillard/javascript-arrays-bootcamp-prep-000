@@ -37,7 +37,7 @@ function destructivelyRemoveElementFromBeginningOfArray (numbers) {
 }
 
 function removeElementFromBeginningOfArray (numbers) {
-  numbers.slice(1)
+  numbers = numbers.slice(1)
   return (numbers)
 }
 
