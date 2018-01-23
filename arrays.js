@@ -46,6 +46,10 @@ function destructivelyRemoveElementFromEndOfArray (numbers) {
   return(numbers)
 }
 
+function removeElementFromEndOfArray (numbers) {
+  numbers.slice(0, numbers.length - 1)
+  return (numbers)
+}
 
 
 
