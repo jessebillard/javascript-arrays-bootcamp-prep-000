@@ -41,5 +41,20 @@ function removeElementFromBeginningOfArray (numbers) {
   return (numbers)
 }
 
+function destructivelyRemoveElementFromEndOfArray ()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
